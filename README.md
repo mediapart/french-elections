@@ -1,2 +1,2 @@
-# elections-francaises
-Codes liés à l'analyse des éléctions françaises (parsing des XML de la présidentielles, ...)
+# French Elections
+Retrieve and parse oficials XML files of https://www.interieur.gouv.fr and https://www.resultats-elections.interieur.gouv.fr
